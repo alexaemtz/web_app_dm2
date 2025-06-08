@@ -16,21 +16,21 @@ Esta es una aplicación web desarrollada con **Streamlit** y autenticada mediant
 
 ## 📁 Estructura del Proyecto
 
-📦project-root
-├── assets/ # Imágenes y logotipo
-├── css/style.css # Estilos personalizados
-├── views/
-│ ├── P001/ # Vistas específicas del paciente P001
-│ ├── P002/ # Vistas específicas del paciente P002
-│ ├── P003/ # Vistas específicas del paciente P003
-│ └── general/ # Vistas compartidas: chatbot, nutrición, detección, etc.
-│ └── main.py # Vista principal
-├── login.py # Módulo de inicio de sesión
-├── logout.py # Módulo de cierre de sesión
-├── register.py # Registro de usuarios
-├── firebase_utils.py # Inicialización y configuración de Firebase
-├── streamlit_app.py # Archivo principal
-└── README.md # Documentación del proyecto
+### 📦project-root
+├── assets/ # Imágenes y logotipo  
+├── css/style.css # Estilos personalizados  
+├── views/  
+│ ├── P001/ # Vistas específicas del paciente P001  
+│ ├── P002/ # Vistas específicas del paciente P002  
+│ ├── P003/ # Vistas específicas del paciente P003  
+│ └── general/ # Vistas compartidas: chatbot, nutrición, detección, etc.  
+│ └── main.py # Vista principal  
+├── login.py # Módulo de inicio de sesión  
+├── logout.py # Módulo de cierre de sesión  
+├── register.py # Registro de usuarios  
+├── firebase_utils.py # Inicialización y configuración de Firebase  
+├── streamlit_app.py # Archivo principal  
+└── README.md # Documentación del proyecto  
 
 ### **Autenticación y Navegación**
 
