@@ -1,6 +1,6 @@
-# 🩺 Aplicación de Gestión para Pacientes con Diabetes Tipo 1
+# 🩺 Aplicación de Gestión para Pacientes con Diabetes Tipo 2
 
-Esta es una aplicación web desarrollada con **Streamlit** y autenticada mediante **Firebase**, diseñada para asistir a pacientes con diabetes tipo 1, sus cuidadores y profesionales de la salud. Ofrece funcionalidades como navegación personalizada por usuario, detección de carbohidratos, historial de glucosa, módulo de medicamentos, chatbot médico y más.
+Esta es una aplicación web desarrollada con **Streamlit** y autenticada mediante **Firebase**, diseñada para asistir a pacientes con diabetes tipo 2, sus cuidadores y profesionales de la salud. Ofrece funcionalidades como navegación personalizada por usuario, detección de carbohidratos, historial de glucosa, módulo de medicamentos, chatbot médico y más.
 
 ## 🚀 Funcionalidades
 
