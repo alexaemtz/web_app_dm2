@@ -37,3 +37,8 @@ Esta es una aplicación web desarrollada con **Streamlit** y autenticada mediant
 - Los usuarios se autentican mediante correo y contraseñal. 
 - El sistema identifica al usuario mediante su UID asignado previamente (P001, P002, P003, Administrador).
 - Según el UID detectado, se habilitan las secciones correspondientes en la navegación lateral.
+
+### Dependencias
+Instala las dependencias necesarias con:
+```bash
+pip install -r requirements.txt
